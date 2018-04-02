@@ -11,3 +11,6 @@ docker build -t genieacs .
 ```
 docker run --rm -p 7557:7557 genieacs
 ```
+
+## Todo
+Reduce image size
